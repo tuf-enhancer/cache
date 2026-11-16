@@ -3449,19 +3449,19 @@
     "question-cn": "https://www.codingninjas.com/studio/problems/count-strongly-connected-components-(kosaraju%E2%80%99s-algorithm)_1171151"
   },
   {
-    "topic-title": "Step 16: Dynamic Programming [Patterns and Problems]",
-    "subtopic-title": "Step 16.1: Introduction to DP",
-    "question-name": "Dynamic Programming Introduction",
-    "question-id": "dynmicprgrmmingintrdctin",
+    "topic-title": "Dynamic Programming",
+    "subtopic-title": "Introduction",
+    "question-name": "Introduction to DP",
+    "question-id": "practice-1195",
     "question-gfg": "https://practice.geeksforgeeks.org/problems/introduction-to-dp/1",
     "question-lc": "",
     "question-cn": "https://www.codingninjas.com/studio/problems/nth-fibonacci-number_74156"
   },
   {
-    "topic-title": "Step 16: Dynamic Programming [Patterns and Problems]",
-    "subtopic-title": "Step 16.2: 1D DP",
-    "question-name": "Climbing Stars",
-    "question-id": "climbingstrs",
+    "topic-title": "Dynamic Programming",
+    "subtopic-title": "1D DP",
+    "question-name": "Climbing stairs",
+    "question-id": "practice-287",
     "question-gfg": "https://practice.geeksforgeeks.org/problems/count-ways-to-reach-the-nth-stair-1587115620/1",
     "question-lc": "https://leetcode.com/problems/climbing-stairs/",
     "question-cn": "https://www.codingninjas.com/studio/problems/count-ways-to-reach-the-n-th-stairs_798650"
@@ -3548,10 +3548,10 @@
     "question-cn": "https://www.codingninjas.com/studio/problems/triangle_1229398"
   },
   {
-    "topic-title": "Step 16: Dynamic Programming [Patterns and Problems]",
-    "subtopic-title": "Step 16.3: 2D/3D DP and DP on Grids",
-    "question-name": "Minimum/Maximum Falling Path Sum (D\u2026",
-    "question-id": "minimmmximmfllingpthsmdp12",
+    "topic-title": "Dynamic Programming",
+    "subtopic-title": "DP on grids",
+    "question-name": "Minimum Falling Path Sum",
+    "question-id": "practice-298",
     "question-gfg": "https://practice.geeksforgeeks.org/problems/path-in-matrix3805/1",
     "question-lc": "https://leetcode.com/problems/minimum-falling-path-sum/",
     "question-cn": "https://www.codingninjas.com/studio/problems/maximum-path-sum-in-the-matrix_797998"
@@ -3575,37 +3575,37 @@
     "question-cn": "https://www.codingninjas.com/studio/problems/subset-sum-equal-to-k_1550954"
   },
   {
-    "topic-title": "Step 16: Dynamic Programming [Patterns and Problems]",
-    "subtopic-title": "Step 16.4: DP on Subsequences",
-    "question-name": "Partition Equal Subset Sum (DP- 15)",
-    "question-id": "prtitinqlsbstsmdp15",
+    "topic-title": "Dynamic Programming",
+    "subtopic-title": "DP on subsequences",
+    "question-name": "Partition equal subset sum",
+    "question-id": "practice-321",
     "question-gfg": "https://practice.geeksforgeeks.org/problems/subset-sum-problem2014/1",
     "question-lc": "https://leetcode.com/problems/partition-equal-subset-sum/",
     "question-cn": "https://www.codingninjas.com/studio/problems/partition-equal-subset-sum-_892980"
   },
   {
-    "topic-title": "Step 16: Dynamic Programming [Patterns and Problems]",
-    "subtopic-title": "Step 16.4: DP on Subsequences",
-    "question-name": "Partition Set Into 2 Subsets With M\u2026",
-    "question-id": "prtitinstint2sbstswithminbsltsmdiffdp16",
+    "topic-title": "Dynamic Programming",
+    "subtopic-title": "DP on subsequences",
+    "question-name": "Partition a set into two subsets with minimum absolute sum difference",
+    "question-id": "practice-320",
     "question-gfg": "https://practice.geeksforgeeks.org/problems/minimum-sum-partition3317/1",
     "question-lc": "https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/",
     "question-cn": "https://www.codingninjas.com/studio/problems/partition-a-set-into-two-subsets-such-that-the-difference-of-subset-sums-is-minimum._842494"
   },
   {
-    "topic-title": "Step 16: Dynamic Programming [Patterns and Problems]",
-    "subtopic-title": "Step 16.4: DP on Subsequences",
-    "question-name": "Count Subsets with Sum K (DP - 17)",
-    "question-id": "cntsbstswithsmkdp17",
+    "topic-title": "Dynamic Programming",
+    "subtopic-title": "DP on subsequences",
+    "question-name": "Count subsets with sum K",
+    "question-id": "practice-318",
     "question-gfg": "https://practice.geeksforgeeks.org/problems/perfect-sum-problem5633/1",
     "question-lc": "",
     "question-cn": "https://www.codingninjas.com/studio/problems/count-subsets-with-sum-k_3952532"
   },
   {
-    "topic-title": "Step 16: Dynamic Programming [Patterns and Problems]",
-    "subtopic-title": "Step 16.4: DP on Subsequences",
-    "question-name": "Count Partitions with Given Differe\u2026",
-    "question-id": "cntprtitinswithgivndiffrncdp18",
+    "topic-title": "Dynamic Programming",
+    "subtopic-title": "DP on subsequences",
+    "question-name": "Count partitions with given difference",
+    "question-id": "practice-317",
     "question-gfg": "https://practice.geeksforgeeks.org/problems/partitions-with-given-difference/1",
     "question-lc": "",
     "question-cn": "https://www.codingninjas.com/studio/problems/partitions-with-given-difference_3751628"
@@ -3638,28 +3638,28 @@
     "question-cn": "https://www.codingninjas.com/studio/problems/target-sum_4127362"
   },
   {
-    "topic-title": "Step 16: Dynamic Programming [Patterns and Problems]",
-    "subtopic-title": "Step 16.4: DP on Subsequences",
-    "question-name": "Coin Change 2 (DP - 22)",
-    "question-id": "cinchng2dp22",
+    "topic-title": "Dynamic Programming",
+    "subtopic-title": "DP on subsequences",
+    "question-name": "Coin change II",
+    "question-id": "practice-316",
     "question-gfg": "https://practice.geeksforgeeks.org/problems/coin-change2448/1",
-    "question-lc": "https://leetcode.com/problems/coin-change-2/",
+    "question-lc": "https://leetcode.com/problems/coin-change-ii/",
     "question-cn": "https://www.codingninjas.com/studio/problems/ways-to-make-coin-change_630471"
   },
   {
-    "topic-title": "Step 16: Dynamic Programming [Patterns and Problems]",
-    "subtopic-title": "Step 16.4: DP on Subsequences",
-    "question-name": "Unbounded Knapsack (DP - 23)",
-    "question-id": "nbnddknpsckdp23",
+    "topic-title": "Dynamic Programming",
+    "subtopic-title": "DP on subsequences",
+    "question-name": "Unbounded knapsack",
+    "question-id": "practice-325",
     "question-gfg": "https://practice.geeksforgeeks.org/problems/knapsack-with-duplicate-items4201/1",
     "question-lc": "",
     "question-cn": "https://www.codingninjas.com/studio/problems/unbounded-knapsack_1215029"
   },
   {
-    "topic-title": "Step 16: Dynamic Programming [Patterns and Problems]",
-    "subtopic-title": "Step 16.4: DP on Subsequences",
-    "question-name": "Rod Cutting Problem | (DP - 24)",
-    "question-id": "rdcttingprblmdp24",
+    "topic-title": "Dynamic Programming",
+    "subtopic-title": "DP on subsequences",
+    "question-name": "Rod cutting problem",
+    "question-id": "practice-322",
     "question-gfg": "https://practice.geeksforgeeks.org/problems/rod-cutting0840/1",
     "question-lc": "",
     "question-cn": "https://www.codingninjas.com/studio/problems/rod-cutting-problem_800284"
@@ -3926,10 +3926,10 @@
     "question-cn": "https://www.codingninjas.com/studio/problems/palindrome-partitioning-ll_873266"
   },
   {
-    "topic-title": "Step 16: Dynamic Programming [Patterns and Problems]",
-    "subtopic-title": "Step 16.8: MCM DP | Partition DP",
-    "question-name": "Partition Array for Maximum Sum|(DP\u2026",
-    "question-id": "prtitinrryfrmximmsmdp54",
+    "topic-title": "Dynamic Programming",
+    "subtopic-title": "MCM DP",
+    "question-name": "Partition Array for Maximum Sum",
+    "question-id": "practice-810",
     "question-gfg": "https://practice.geeksforgeeks.org/problems/partition-array-for-maximum-sum/1",
     "question-lc": "https://leetcode.com/problems/partition-array-for-maximum-sum/",
     "question-cn": "https://www.codingninjas.com/studio/problems/partition-array-for-maximum-sum_3755255"
