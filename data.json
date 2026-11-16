@@ -342,19 +342,19 @@
     "question-cn": "https://www.codingninjas.com/studio/problems/quick-sort_5844"
   },
   {
-    "topic-title": "Step 3: Solve Problems on Arrays [Easy -> Medium -> Hard]",
-    "subtopic-title": "Step 3.1: Easy",
-    "question-name": "Largest Element in an Array",
-    "question-id": "lrgstlmntinnrry",
+    "topic-title": "Arrays",
+    "subtopic-title": "Fundamentals",
+    "question-name": "Largest Element",
+    "question-id": "practice-38",
     "question-gfg": "https://practice.geeksforgeeks.org/problems/largest-element-in-array4009/1",
     "question-lc": "",
     "question-cn": "https://www.codingninjas.com/codestudio/problems/largest-element-in-the-array-largest-element-in-the-array_5026279"
   },
   {
-    "topic-title": "Step 3: Solve Problems on Arrays [Easy -> Medium -> Hard]",
-    "subtopic-title": "Step 3.1: Easy",
-    "question-name": "Second Largest Element in an Array \u2026",
-    "question-id": "scndlrgstlmntinnrrywithtsrting",
+    "topic-title": "Arrays",
+    "subtopic-title": "Fundamentals",
+    "question-name": "Second Largest Element",
+    "question-id": "practice-43",
     "question-gfg": "https://practice.geeksforgeeks.org/problems/second-largest3735/1",
     "question-lc": "",
     "question-cn": "https://www.codingninjas.com/codestudio/problems/ninja-and-the-second-order-elements_6581960"
@@ -378,28 +378,28 @@
     "question-cn": "https://www.codingninjas.com/codestudio/problems/remove-duplicates-from-sorted-array_1102307"
   },
   {
-    "topic-title": "Step 3: Solve Problems on Arrays [Easy -> Medium -> Hard]",
-    "subtopic-title": "Step 3.1: Easy",
-    "question-name": "Left Rotate an array by one place",
-    "question-id": "lftrttnrrybynplc",
+    "topic-title": "Arrays",
+    "subtopic-title": "Fundamentals",
+    "question-name": "Left Rotate Array by One",
+    "question-id": "practice-40",
     "question-gfg": "https://practice.geeksforgeeks.org/problems/rotate-array-by-n-elements-1587115621/1",
     "question-lc": "https://leetcode.com/problems/rotate-array/",
     "question-cn": "https://www.codingninjas.com/codestudio/problems/left-rotate-an-array-by-one_5026278"
   },
   {
-    "topic-title": "Step 3: Solve Problems on Arrays [Easy -> Medium -> Hard]",
-    "subtopic-title": "Step 3.1: Easy",
-    "question-name": "Left rotate an array by D places",
-    "question-id": "lftrttnrrybydplcs",
+    "topic-title": "Arrays",
+    "subtopic-title": "Fundamentals",
+    "question-name": "Left Rotate Array by K Places",
+    "question-id": "practice-39",
     "question-gfg": "https://practice.geeksforgeeks.org/problems/rotate-array-by-n-elements-1587115621/1",
     "question-lc": "https://leetcode.com/problems/rotate-array/",
     "question-cn": "https://www.codingninjas.com/codestudio/problems/rotate-array_1230543"
   },
   {
-    "topic-title": "Step 3: Solve Problems on Arrays [Easy -> Medium -> Hard]",
-    "subtopic-title": "Step 3.1: Easy",
-    "question-name": "Move Zeros to end",
-    "question-id": "mvzrstnd",
+    "topic-title": "Arrays",
+    "subtopic-title": "Logic Building",
+    "question-name": "Move Zeros to End",
+    "question-id": "practice-46",
     "question-gfg": "https://practice.geeksforgeeks.org/problems/move-all-zeroes-to-end-of-array0751/1",
     "question-lc": "https://leetcode.com/problems/move-zeroes/",
     "question-cn": "https://www.codingninjas.com/codestudio/problems/ninja-and-the-zero-s_6581958"
@@ -423,10 +423,10 @@
     "question-cn": "https://www.codingninjas.com/codestudio/problems/sorted-array_6613259"
   },
   {
-    "topic-title": "Step 3: Solve Problems on Arrays [Easy -> Medium -> Hard]",
-    "subtopic-title": "Step 3.1: Easy",
-    "question-name": "Find missing number in an array",
-    "question-id": "findmissingnmbrinnrry",
+    "topic-title": "Arrays",
+    "subtopic-title": "Logic Building",
+    "question-name": "Find missing number",
+    "question-id": "practice-44",
     "question-gfg": "https://practice.geeksforgeeks.org/problems/missing-number-in-array1416/1",
     "question-lc": "https://leetcode.com/problems/missing-number/",
     "question-cn": "https://www.naukri.com/code360/problems/missing-number_6680467"
@@ -468,38 +468,38 @@
     "question-cn": "https://www.codingninjas.com/studio/problems/longest-subarray-with-sum-k_5713505"
   },
   {
-    "topic-title": "Step 3: Solve Problems on Arrays [Easy -> Medium -> Hard]",
-    "subtopic-title": "Step 3.2: Medium",
-    "question-name": "2Sum Problem",
-    "question-id": "2smprblm",
+    "topic-title": "Arrays",
+    "subtopic-title": "FAQs (Medium)",
+    "question-name": "Two Sum",
+    "question-id": "practice-37",
     "question-gfg": "https://practice.geeksforgeeks.org/problems/count-pairs-with-given-sum5022/1",
     "question-lc": "https://leetcode.com/problems/two-sum/",
     "question-cn": "https://www.codingninjas.com/codestudio/problems/reading_6845742"
   },
   {
-    "topic-title": "Step 3: Solve Problems on Arrays [Easy -> Medium -> Hard]",
-    "subtopic-title": "Step 3.2: Medium",
+    "topic-title": "Arrays",
+    "subtopic-title": "FAQs (Medium)",
     "question-name": "Sort an array of 0's 1's and 2's",
-    "question-id": "srtnrryf0s1snd2s",
+    "question-id": "practice-36",
     "question-gfg": "https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1",
     "question-lc": "https://leetcode.com/problems/sort-colors/",
     "question-cn": "https://www.codingninjas.com/codestudio/problems/sort-an-array-of-0s-1s-and-2s_892977"
   },
   {
-    "topic-title": "Step 3: Solve Problems on Arrays [Easy -> Medium -> Hard]",
-    "subtopic-title": "Step 3.2: Medium",
-    "question-name": "Majority Element (>n/2 times)",
-    "question-id": "mjritylmntn2tims",
+    "topic-title": "Arrays",
+    "subtopic-title": "FAQs (Medium)",
+    "question-name": "Majority Element-I",
+    "question-id": "practice-22",
     "question-gfg": "https://practice.geeksforgeeks.org/problems/majority-element-1587115620/1",
     "question-lc": "https://leetcode.com/problems/majority-element/",
     "question-cn": "https://www.codingninjas.com/codestudio/problems/majority-element_6783241"
   },
   {
-    "topic-title": "Step 3: Solve Problems on Arrays [Easy -> Medium -> Hard]",
-    "subtopic-title": "Step 3.2: Medium",
-    "question-name": "Kadane's Algorithm, maximum subarra\u2026",
-    "question-id": "kdnslgrithmmximmsbrrysm",
-    "question-gfg": "https://practice.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1",
+    "topic-title": "Arrays",
+    "subtopic-title": "FAQs (Medium)",
+    "question-name": "Kadane's Algorithm",
+    "question-id": "practice-29",
+    "question-gfg": "https://www.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1",
     "question-lc": "https://leetcode.com/problems/maximum-subarray/",
     "question-cn": "https://www.codingninjas.com/codestudio/problems/maximum-subarray-sum_630526"
   },
@@ -522,30 +522,30 @@
     "question-cn": "https://www.codingninjas.com/codestudio/problems/best-time-to-buy-and-sell-stock_6194560"
   },
   {
-    "topic-title": "Step 3: Solve Problems on Arrays [Easy -> Medium -> Hard]",
-    "subtopic-title": "Step 3.2: Medium",
-    "question-name": "Rearrange the array in alternating \u2026",
-    "question-id": "rrrngthrryinltrntingpsitivndngtivitms",
+    "topic-title": "Arrays",
+    "subtopic-title": "FAQs (Medium)",
+    "question-name": "Rearrange array elements by sign",
+    "question-id": "practice-34",
     "question-gfg": "https://practice.geeksforgeeks.org/problems/-rearrange-array-alternately-1587115620/1",
     "question-lc": "https://leetcode.com/problems/rearrange-array-elements-by-sign/",
     "question-cn": "https://www.codingninjas.com/codestudio/problems/alternate-numbers_6783445"
   },
   {
-    "topic-title": "Step 3: Solve Problems on Arrays [Easy -> Medium -> Hard]",
-    "subtopic-title": "Step 3.2: Medium",
+    "topic-title": "Arrays",
+    "subtopic-title": "FAQs (Medium)",
     "question-name": "Next Permutation",
-    "question-id": "nxtprmttin",
+    "question-id": "practice-31",
     "question-gfg": "https://practice.geeksforgeeks.org/problems/next-permutation5226/1",
     "question-lc": "https://leetcode.com/problems/next-permutation/",
     "question-cn": "https://www.codingninjas.com/codestudio/problems/next-greater-permutation_6929564"
   },
   {
-    "topic-title": "Step 3: Solve Problems on Arrays [Easy -> Medium -> Hard]",
-    "subtopic-title": "Step 3.2: Medium",
-    "question-name": "Leaders in an Array problem",
-    "question-id": "ldrsinnrryprblm",
+    "topic-title": "Arrays",
+    "subtopic-title": "FAQs (Medium)",
+    "question-name": "Leaders in an Array",
+    "question-id": "practice-30",
     "question-gfg": "https://practice.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1",
-    "question-lc": "",
+    "question-lc": "https://leetcode.com/problems/buildings-with-an-ocean-view/",
     "question-cn": "https://www.codingninjas.com/codestudio/problems/superior-elements_6783446"
   },
   {
@@ -567,10 +567,10 @@
     "question-cn": "https://www.codingninjas.com/codestudio/problems/zero-matrix_1171153"
   },
   {
-    "topic-title": "Step 3: Solve Problems on Arrays [Easy -> Medium -> Hard]",
-    "subtopic-title": "Step 3.2: Medium",
-    "question-name": "Rotate Matrix by 90 degrees",
-    "question-id": "rttmtrixby90dgrs",
+    "topic-title": "Arrays",
+    "subtopic-title": "FAQs (Medium)",
+    "question-name": "Rotate matrix by 90 degrees",
+    "question-id": "practice-35",
     "question-gfg": "https://practice.geeksforgeeks.org/problems/rotate-by-90-degree-1587115621/1",
     "question-lc": "https://leetcode.com/problems/rotate-image/",
     "question-cn": "https://www.codingninjas.com/codestudio/problems/rotate-the-matrix_6825090"
@@ -594,37 +594,37 @@
     "question-cn": "https://www.codingninjas.com/studio/problems/subarray-sums-i_1467103"
   },
   {
-    "topic-title": "Step 3: Solve Problems on Arrays [Easy -> Medium -> Hard]",
-    "subtopic-title": "Step 3.3: Hard",
-    "question-name": "Pascal's Triangle",
-    "question-id": "psclstringl",
+    "topic-title": "Arrays",
+    "subtopic-title": "FAQs (Medium)",
+    "question-name": "Pascal's Triangle I",
+    "question-id": "practice-813",
     "question-gfg": "https://practice.geeksforgeeks.org/problems/pascal-triangle0652/1",
     "question-lc": "https://leetcode.com/problems/pascals-triangle/",
     "question-cn": "https://www.codingninjas.com/codestudio/problems/print-pascal-s-triangle_6917910"
   },
   {
-    "topic-title": "Step 3: Solve Problems on Arrays [Easy -> Medium -> Hard]",
-    "subtopic-title": "Step 3.3: Hard",
-    "question-name": "Majority Element (n/3 times)",
-    "question-id": "mjritylmntn3tims",
+    "topic-title": "Arrays",
+    "subtopic-title": "FAQs (Hard)",
+    "question-name": "Majority Element-II",
+    "question-id": "practice-23",
     "question-gfg": "https://practice.geeksforgeeks.org/problems/majority-element-1587115620/1",
     "question-lc": "https://leetcode.com/problems/majority-element-ii/",
     "question-cn": "https://www.codingninjas.com/codestudio/problems/majority-element_6915220"
   },
   {
-    "topic-title": "Step 3: Solve Problems on Arrays [Easy -> Medium -> Hard]",
-    "subtopic-title": "Step 3.3: Hard",
-    "question-name": "3-Sum Problem",
-    "question-id": "3smprblm",
-    "question-gfg": "https://practice.geeksforgeeks.org/problems/triplet-sum-in-array-1587115621/1",
+    "topic-title": "Arrays",
+    "subtopic-title": "FAQs (Medium)",
+    "question-name": "3 Sum",
+    "question-id": "practice-27",
+    "question-gfg": "https://www.geeksforgeeks.org/problems/triplet-sum-in-array-1587115621/1",
     "question-lc": "https://leetcode.com/problems/3sum/",
     "question-cn": "https://www.codingninjas.com/codestudio/problems/three-sum_6922132"
   },
   {
-    "topic-title": "Step 3: Solve Problems on Arrays [Easy -> Medium -> Hard]",
-    "subtopic-title": "Step 3.3: Hard",
-    "question-name": "4-Sum Problem",
-    "question-id": "4smprblm",
+    "topic-title": "Arrays",
+    "subtopic-title": "FAQs (Medium)",
+    "question-name": "4 Sum",
+    "question-id": "practice-28",
     "question-gfg": "https://practice.geeksforgeeks.org/problems/find-all-four-sum-numbers1732/1",
     "question-lc": "https://leetcode.com/problems/4sum/",
     "question-cn": "https://www.codingninjas.com/codestudio/problems/4sum_5713771"
@@ -675,19 +675,19 @@
     "question-cn": "https://www.codingninjas.com/codestudio/problems/missing-and-repeating-numbers_6828164"
   },
   {
-    "topic-title": "Step 3: Solve Problems on Arrays [Easy -> Medium -> Hard]",
-    "subtopic-title": "Step 3.3: Hard",
+    "topic-title": "Arrays",
+    "subtopic-title": "FAQs (Hard)",
     "question-name": "Count Inversions",
-    "question-id": "cntinvrsins",
+    "question-id": "practice-20",
     "question-gfg": "https://practice.geeksforgeeks.org/problems/inversion-of-array-1587115620/1",
     "question-lc": "",
     "question-cn": "https://www.codingninjas.com/codestudio/problems/number-of-inversions_6840276"
   },
   {
-    "topic-title": "Step 3: Solve Problems on Arrays [Easy -> Medium -> Hard]",
-    "subtopic-title": "Step 3.3: Hard",
+    "topic-title": "Arrays",
+    "subtopic-title": "FAQs (Hard)",
     "question-name": "Reverse Pairs",
-    "question-id": "rvrspirs",
+    "question-id": "practice-26",
     "question-gfg": "https://practice.geeksforgeeks.org/problems/count-reverse-pairs/1",
     "question-lc": "https://leetcode.com/problems/reverse-pairs/",
     "question-cn": "https://www.codingninjas.com/codestudio/problems/team-contest_6840309"
