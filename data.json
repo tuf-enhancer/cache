@@ -666,10 +666,10 @@
     "question-cn": "https://www.codingninjas.com/codestudio/problems/merge-two-sorted-arrays-without-extra-space_6898839"
   },
   {
-    "topic-title": "Step 3: Solve Problems on Arrays [Easy -> Medium -> Hard]",
-    "subtopic-title": "Step 3.3: Hard",
-    "question-name": "Find the repeating and missing numb\u2026",
-    "question-id": "findthrptingndmissingnmbr-i",
+    "topic-title": "Arrays",
+    "subtopic-title": "FAQs (Hard)",
+    "question-name": "Find the repeating and missing number",
+    "question-id": "practice-21",
     "question-gfg": "https://practice.geeksforgeeks.org/problems/find-missing-and-repeating2512/1",
     "question-lc": "",
     "question-cn": "https://www.codingninjas.com/codestudio/problems/missing-and-repeating-numbers_6828164"
@@ -693,64 +693,64 @@
     "question-cn": "https://www.codingninjas.com/codestudio/problems/team-contest_6840309"
   },
   {
-    "topic-title": "Step 3: Solve Problems on Arrays [Easy -> Medium -> Hard]",
-    "subtopic-title": "Step 3.3: Hard",
-    "question-name": "Maximum Product Subarray",
-    "question-id": "mximmprdctsbrry",
+    "topic-title": "Arrays",
+    "subtopic-title": "FAQs (Hard)",
+    "question-name": "Maximum Product Subarray in an Array",
+    "question-id": "practice-24",
     "question-gfg": "https://practice.geeksforgeeks.org/problems/maximum-product-subarray3604/1",
     "question-lc": "https://leetcode.com/problems/maximum-product-subarray/",
     "question-cn": "https://www.codingninjas.com/codestudio/problems/subarray-with-maximum-product_6890008"
   },
   {
-    "topic-title": "Step 4: Binary Search [1D, 2D Arrays, Search Space]",
-    "subtopic-title": "Step 4.1: BS on 1D Arrays",
-    "question-name": "Binary Search to find X in sorted a\u2026",
-    "question-id": "binrysrchtfindxinsrtdrry",
+    "topic-title": "Binary Search",
+    "subtopic-title": "Fundamentals",
+    "question-name": "Search X in sorted array",
+    "question-id": "practice-81",
     "question-gfg": "https://practice.geeksforgeeks.org/problems/binary-search-1587115620/1",
     "question-lc": "https://leetcode.com/problems/binary-search/",
     "question-cn": "https://www.codingninjas.com/codestudio/problems/binary-search_972"
   },
   {
-    "topic-title": "Step 4: Binary Search [1D, 2D Arrays, Search Space]",
-    "subtopic-title": "Step 4.1: BS on 1D Arrays",
-    "question-name": "Implement Lower Bound",
-    "question-id": "implmntlwrbnd",
+    "topic-title": "Binary Search",
+    "subtopic-title": "Fundamentals",
+    "question-name": "Lower Bound",
+    "question-id": "practice-80",
     "question-gfg": "https://practice.geeksforgeeks.org/problems/floor-in-a-sorted-array-1587115620/1",
     "question-lc": "",
     "question-cn": "https://www.codingninjas.com/codestudio/problems/lower-bound_8165382"
   },
   {
-    "topic-title": "Step 4: Binary Search [1D, 2D Arrays, Search Space]",
-    "subtopic-title": "Step 4.1: BS on 1D Arrays",
-    "question-name": "Implement Upper Bound",
-    "question-id": "implmntpprbnd",
+    "topic-title": "Binary Search",
+    "subtopic-title": "Fundamentals",
+    "question-name": "Upper Bound",
+    "question-id": "practice-82",
     "question-gfg": "https://www.geeksforgeeks.org/implementing-upper_bound-and-lower_bound-in-c/",
     "question-lc": "",
     "question-cn": "https://www.codingninjas.com/studio/problems/implement-upper-bound_8165383"
   },
   {
-    "topic-title": "Step 4: Binary Search [1D, 2D Arrays, Search Space]",
-    "subtopic-title": "Step 4.1: BS on 1D Arrays",
-    "question-name": "Search Insert Position",
-    "question-id": "srchinsrtpsitin",
+    "topic-title": "Binary Search",
+    "subtopic-title": "Logic Building",
+    "question-name": "Search insert position",
+    "question-id": "practice-89",
     "question-gfg": "https://practice.geeksforgeeks.org/problems/search-insert-position-of-k-in-a-sorted-array/1",
     "question-lc": "https://leetcode.com/problems/search-insert-position/",
     "question-cn": "https://www.codingninjas.com/codestudio/problems/algorithm-to-find-best-insert-position-in-sorted-array_839813"
   },
   {
-    "topic-title": "Step 4: Binary Search [1D, 2D Arrays, Search Space]",
-    "subtopic-title": "Step 4.1: BS on 1D Arrays",
-    "question-name": "Floor/Ceil in Sorted Array",
-    "question-id": "chckifinptrryissrtd",
+    "topic-title": "Binary Search",
+    "subtopic-title": "Logic Building",
+    "question-name": "Floor and Ceil in Sorted Array",
+    "question-id": "practice-86",
     "question-gfg": "https://practice.geeksforgeeks.org/problems/ceil-the-floor2802/1",
     "question-lc": "",
     "question-cn": "https://www.codingninjas.com/studio/problems/ceiling-in-a-sorted-array_1825401"
   },
   {
-    "topic-title": "Step 4: Binary Search [1D, 2D Arrays, Search Space]",
-    "subtopic-title": "Step 4.1: BS on 1D Arrays",
-    "question-name": "Find the first or last occurrence o\u2026",
-    "question-id": "findthfirstrlstccrrncfgivnnmbrinsrtdrry",
+    "topic-title": "Binary Search",
+    "subtopic-title": "Logic Building",
+    "question-name": "First and last occurrence",
+    "question-id": "practice-85",
     "question-gfg": "https://practice.geeksforgeeks.org/problems/first-and-last-occurrences-of-x3116/1",
     "question-lc": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/",
     "question-cn": "https://www.codingninjas.com/codestudio/problems/first-and-last-position-of-an-element-in-sorted-array_1082549"
@@ -774,37 +774,37 @@
     "question-cn": "https://www.codingninjas.com/codestudio/problems/search-in-rotated-sorted-array_1082554"
   },
   {
-    "topic-title": "Step 4: Binary Search [1D, 2D Arrays, Search Space]",
-    "subtopic-title": "Step 4.1: BS on 1D Arrays",
-    "question-name": "Search in Rotated Sorted Array II",
-    "question-id": "srchinrttdsrtdrryii",
+    "topic-title": "Binary Search",
+    "subtopic-title": "Logic Building",
+    "question-name": "Search in rotated sorted array-II",
+    "question-id": "practice-88",
     "question-gfg": "https://practice.geeksforgeeks.org/problems/search-in-rotated-array-2/1",
     "question-lc": "https://leetcode.com/problems/search-in-rotated-sorted-array-ii/",
     "question-cn": "https://www.codingninjas.com/codestudio/problems/search-in-a-rotated-sorted-array-ii_7449547"
   },
   {
-    "topic-title": "Step 4: Binary Search [1D, 2D Arrays, Search Space]",
-    "subtopic-title": "Step 4.1: BS on 1D Arrays",
-    "question-name": "Find minimum in Rotated Sorted Arra\u2026",
-    "question-id": "findminimminrttdsrtdrry",
+    "topic-title": "Binary Search",
+    "subtopic-title": "Logic Building",
+    "question-name": "Find minimum in Rotated Sorted Array",
+    "question-id": "practice-83",
     "question-gfg": "https://practice.geeksforgeeks.org/problems/minimum-element-in-a-sorted-and-rotated-array3611/1",
     "question-lc": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/",
     "question-cn": "https://www.codingninjas.com/codestudio/problems/rotated-array_1093219"
   },
   {
-    "topic-title": "Step 4: Binary Search [1D, 2D Arrays, Search Space]",
-    "subtopic-title": "Step 4.1: BS on 1D Arrays",
-    "question-name": "Find out how many times has an arra\u2026",
-    "question-id": "findthwmnytimshsnrrybnrttd",
+    "topic-title": "Binary Search",
+    "subtopic-title": "Logic Building",
+    "question-name": "Find out how many times the array is rotated",
+    "question-id": "practice-84",
     "question-gfg": "https://www.geeksforgeeks.org/problems/rotation4723/1",
     "question-lc": "",
     "question-cn": "https://www.codingninjas.com/codestudio/problems/rotation_7449070"
   },
   {
-    "topic-title": "Step 4: Binary Search [1D, 2D Arrays, Search Space]",
-    "subtopic-title": "Step 4.1: BS on 1D Arrays",
-    "question-name": "Single element in a Sorted Array",
-    "question-id": "singllmntinsrtdrry",
+    "topic-title": "Binary Search",
+    "subtopic-title": "Logic Building",
+    "question-name": "Single element in sorted array",
+    "question-id": "practice-90",
     "question-gfg": "https://practice.geeksforgeeks.org/problems/find-the-element-that-appears-once-in-sorted-array0624/1",
     "question-lc": "https://leetcode.com/problems/single-element-in-a-sorted-array/",
     "question-cn": "https://www.codingninjas.com/codestudio/problems/unique-element-in-sorted-array_1112654"
@@ -819,52 +819,52 @@
     "question-cn": "https://www.codingninjas.com/codestudio/problems/find-peak-element_1081482"
   },
   {
-    "topic-title": "Step 4: Binary Search [1D, 2D Arrays, Search Space]",
-    "subtopic-title": "Step 4.2: BS on Answers",
-    "question-name": "Find square root of a number in log\u2026",
-    "question-id": "findsqrrtfnmbrinlgn",
+    "topic-title": "Binary Search",
+    "subtopic-title": "On Answers",
+    "question-name": "Find square root of a number",
+    "question-id": "practice-92",
     "question-gfg": "https://practice.geeksforgeeks.org/problems/square-root/1",
-    "question-lc": "",
+    "question-lc": "https://leetcode.com/problems/sqrtx/",
     "question-cn": "https://www.codingninjas.com/codestudio/problems/square-root-integral_893351"
   },
   {
-    "topic-title": "Step 4: Binary Search [1D, 2D Arrays, Search Space]",
-    "subtopic-title": "Step 4.2: BS on Answers",
-    "question-name": "Find the Nth root of a number using\u2026",
-    "question-id": "findthnthrtfnmbrsingbinrysrch",
+    "topic-title": "Binary Search",
+    "subtopic-title": "On Answers",
+    "question-name": "Find Nth root of a number",
+    "question-id": "practice-91",
     "question-gfg": "https://practice.geeksforgeeks.org/problems/find-nth-root-of-m5843/1",
     "question-lc": "",
     "question-cn": "https://www.codingninjas.com/codestudio/problems/nth-root-of-m_1062679"
   },
   {
-    "topic-title": "Step 4: Binary Search [1D, 2D Arrays, Search Space]",
-    "subtopic-title": "Step 4.2: BS on Answers",
-    "question-name": "Koko Eating Bananas",
-    "question-id": "kktingbnns",
+    "topic-title": "Binary Search",
+    "subtopic-title": "On Answers",
+    "question-name": "Koko eating bananas",
+    "question-id": "practice-94",
     "question-gfg": "https://practice.geeksforgeeks.org/problems/koko-eating-bananas/1",
     "question-lc": "https://leetcode.com/problems/koko-eating-bananas/",
     "question-cn": "https://www.codingninjas.com/codestudio/problems/minimum-rate-to-eat-bananas_7449064"
   },
   {
-    "topic-title": "Step 4: Binary Search [1D, 2D Arrays, Search Space]",
-    "subtopic-title": "Step 4.2: BS on Answers",
+    "topic-title": "Binary Search",
+    "subtopic-title": "On Answers",
     "question-name": "Minimum days to make M bouquets",
-    "question-id": "minimmdystmkmbqts",
+    "question-id": "practice-95",
     "question-gfg": "https://practice.geeksforgeeks.org/problems/minimum-days-to-make-m-bouquets/1",
     "question-lc": "https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/",
     "question-cn": "https://www.codingninjas.com/codestudio/problems/rose-garden_2248080"
   },
   {
-    "topic-title": "Step 4: Binary Search [1D, 2D Arrays, Search Space]",
-    "subtopic-title": "Step 4.2: BS on Answers",
-    "question-name": "Find the smallest Divisor",
-    "question-id": "findthsmllstdivisr",
+    "topic-title": "Binary Search",
+    "subtopic-title": "On Answers",
+    "question-name": "Find the smallest divisor",
+    "question-id": "practice-93",
     "question-gfg": "https://practice.geeksforgeeks.org/problems/smallest-divisor/1",
     "question-lc": "https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/",
     "question-cn": "https://www.codingninjas.com/codestudio/problems/smallest-divisor-with-the-given-limit_1755882"
   },
   {
-    "topic-title": "Step 4: Binary Search [1D, 2D Arrays, Search Space]",
+    "topic-title": "Binary Search",
     "subtopic-title": "Step 4.2: BS on Answers",
     "question-name": "Capacity to Ship Packages within D \u2026",
     "question-id": "cpcitytshippckgswithinddys",
@@ -873,10 +873,10 @@
     "question-cn": "https://www.codingninjas.com/codestudio/problems/capacity-to-ship-packages-within-d-days_1229379"
   },
   {
-    "topic-title": "Step 4: Binary Search [1D, 2D Arrays, Search Space]",
-    "subtopic-title": "Step 4.2: BS on Answers",
+    "topic-title": "Binary Search",
+    "subtopic-title": "On Answers",
     "question-name": "Kth Missing Positive Number",
-    "question-id": "kthmissingpsitivnmbr",
+    "question-id": "practice-600",
     "question-gfg": "https://practice.geeksforgeeks.org/problems/k-th-missing-element3635/1",
     "question-lc": "https://leetcode.com/problems/kth-missing-positive-number/",
     "question-cn": "https://www.codingninjas.com/codestudio/problems/kth-missing-element_893215"
@@ -891,12 +891,12 @@
     "question-cn": "https://www.codingninjas.com/codestudio/problems/aggressive-cows_1082559"
   },
   {
-    "topic-title": "Step 4: Binary Search [1D, 2D Arrays, Search Space]",
-    "subtopic-title": "Step 4.2: BS on Answers",
+    "topic-title": "Binary Search",
+    "subtopic-title": "FAQs",
     "question-name": "Book Allocation Problem",
-    "question-id": "bkllctinprblm",
+    "question-id": "practice-74",
     "question-gfg": "https://practice.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1",
-    "question-lc": "",
+    "question-lc": "https://leetcode.com/problems/split-array-largest-sum/",
     "question-cn": "https://www.codingninjas.com/codestudio/problems/allocate-books_1090540"
   },
   {
@@ -927,7 +927,7 @@
     "question-cn": "https://www.codingninjas.com/codestudio/problems/minimise-max-distance_7541449"
   },
   {
-    "topic-title": "Step 4: Binary Search [1D, 2D Arrays, Search Space]",
+    "topic-title": "Binary Search",
     "subtopic-title": "Step 4.2: BS on Answers",
     "question-name": "Median of 2 sorted arrays",
     "question-id": "mdinf2srtdrrys",
@@ -936,10 +936,10 @@
     "question-cn": "https://www.codingninjas.com/codestudio/problems/median-of-two-sorted-arrays_985294"
   },
   {
-    "topic-title": "Step 4: Binary Search [1D, 2D Arrays, Search Space]",
-    "subtopic-title": "Step 4.2: BS on Answers",
+    "topic-title": "Binary Search",
+    "subtopic-title": "FAQs",
     "question-name": "Kth element of 2 sorted arrays",
-    "question-id": "kthlmntf2srtdrrys",
+    "question-id": "practice-76",
     "question-gfg": "https://practice.geeksforgeeks.org/problems/k-th-element-of-two-sorted-array1317/1",
     "question-lc": "",
     "question-cn": "https://www.codingninjas.com/codestudio/problems/k-th-element-of-2-sorted-array_1164159"
@@ -954,39 +954,39 @@
     "question-cn": "https://www.codingninjas.com/codestudio/problems/row-of-a-matrix-with-maximum-ones_982768"
   },
   {
-    "topic-title": "Step 4: Binary Search [1D, 2D Arrays, Search Space]",
-    "subtopic-title": "Step 4.3: BS on 2D Arrays",
-    "question-name": "Search in a 2 D matrix",
-    "question-id": "srchin2dmtrix",
+    "topic-title": "Binary Search",
+    "subtopic-title": "2D Arrays",
+    "question-name": "Search in a 2D Matrix",
+    "question-id": "practice-69",
     "question-gfg": "https://practice.geeksforgeeks.org/problems/search-in-a-matrix17201720/1",
     "question-lc": "https://leetcode.com/problems/search-a-2d-matrix/",
     "question-cn": "https://www.codingninjas.com/codestudio/problems/search-in-a-2d-matrix_980531"
   },
   {
-    "topic-title": "Step 4: Binary Search [1D, 2D Arrays, Search Space]",
-    "subtopic-title": "Step 4.3: BS on 2D Arrays",
-    "question-name": "Search in a row and column wise sor\u2026",
-    "question-id": "SearchRowColumnWiseSortedMatrix",
+    "topic-title": "Binary Search",
+    "subtopic-title": "2D Arrays",
+    "question-name": "Search in 2D matrix - II",
+    "question-id": "practice-68",
     "question-gfg": "https://practice.geeksforgeeks.org/problems/search-in-a-matrix-1587115621/1",
     "question-lc": "https://leetcode.com/problems/search-a-2d-matrix-ii/",
     "question-cn": "https://www.codingninjas.com/codestudio/problems/search-in-a-sorted-2d-matrix_6917532"
   },
   {
-    "topic-title": "Step 4: Binary Search [1D, 2D Arrays, Search Space]",
-    "subtopic-title": "Step 4.3: BS on 2D Arrays",
-    "question-name": "Find Peak Element (2D Matrix)",
-    "question-id": "findpklmnt-i",
+    "topic-title": "Binary Search",
+    "subtopic-title": "2D Arrays",
+    "question-name": "Find Peak Element - II",
+    "question-id": "practice-65",
     "question-gfg": "https://practice.geeksforgeeks.org/problems/peak-element/1",
     "question-lc": "https://leetcode.com/problems/find-a-peak-element-ii/",
     "question-cn": "https://www.codingninjas.com/codestudio/problems/find-peak-element_7449073"
   },
   {
-    "topic-title": "Step 4: Binary Search [1D, 2D Arrays, Search Space]",
-    "subtopic-title": "Step 4.3: BS on 2D Arrays",
+    "topic-title": "Binary Search",
+    "subtopic-title": "2D Arrays",
     "question-name": "Matrix Median",
-    "question-id": "mtrixmdin",
+    "question-id": "practice-67",
     "question-gfg": "https://practice.geeksforgeeks.org/problems/median-in-a-row-wise-sorted-matrix1527/1",
-    "question-lc": "",
+    "question-lc": "https://leetcode.com/problems/median-of-a-row-wise-sorted-matrix/",
     "question-cn": "https://www.codingninjas.com/codestudio/problems/median-of-a-row-wise-sorted-matrix_1115473"
   },
   {
