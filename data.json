@@ -2322,19 +2322,19 @@
     "question-cn": "https://www.codingninjas.com/studio/problems/k-most-frequent-elements_3167808"
   },
   {
-    "topic-title": "Step 12: Greedy Algorithms [Easy, Medium/Hard]",
-    "subtopic-title": "Step 12.1: Easy Problems",
+    "topic-title": "Greedy Algorithms",
+    "subtopic-title": "Easy",
     "question-name": "Assign Cookies",
-    "question-id": "ssignckis",
+    "question-id": "practice-541",
     "question-gfg": "https://practice.geeksforgeeks.org/problems/assign-cookies/1",
     "question-lc": "https://leetcode.com/problems/assign-cookies/",
     "question-cn": "https://www.codingninjas.com/codestudio/problems/assign-cookies_8390826"
   },
   {
-    "topic-title": "Step 12: Greedy Algorithms [Easy, Medium/Hard]",
-    "subtopic-title": "Step 12.1: Easy Problems",
-    "question-name": "Fractional Knapsack Problem",
-    "question-id": "frctinlknpsckprblm",
+    "topic-title": "Greedy Algorithms",
+    "subtopic-title": "Easy",
+    "question-name": "Fractional Knapsack",
+    "question-id": "practice-489",
     "question-gfg": "https://practice.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1",
     "question-lc": "",
     "question-cn": "https://www.codingninjas.com/studio/problems/fractional-knapsack_975286"
@@ -2358,37 +2358,37 @@
     "question-cn": "https://www.codingninjas.com/codestudio/problems/lemonade-change_8224112"
   },
   {
-    "topic-title": "Step 12: Greedy Algorithms [Easy, Medium/Hard]",
-    "subtopic-title": "Step 12.1: Easy Problems",
-    "question-name": "Valid Paranthesis Checker",
-    "question-id": "vlidprnthsischckr",
+    "topic-title": "Greedy Algorithms",
+    "subtopic-title": "Hard",
+    "question-name": "Valid Parenthesis Checker",
+    "question-id": "practice-545",
     "question-gfg": "https://practice.geeksforgeeks.org/problems/parenthesis-checker2744/1",
     "question-lc": "https://leetcode.com/problems/valid-parenthesis-string/",
     "question-cn": "https://www.codingninjas.com/studio/problems/balanced-parentheses_8162202"
   },
   {
-    "topic-title": "Step 12: Greedy Algorithms [Easy, Medium/Hard]",
-    "subtopic-title": "Step 12.2: Medium/Hard",
+    "topic-title": "Greedy Algorithms",
+    "subtopic-title": "Scheduling and Interval Problems",
     "question-name": "N meetings in one room",
-    "question-id": "nmtingsinnrm",
+    "question-id": "practice-549",
     "question-gfg": "https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1",
     "question-lc": "",
     "question-cn": "https://www.codingninjas.com/studio/problems/maximum-meetings_1062658"
   },
   {
-    "topic-title": "Step 12: Greedy Algorithms [Easy, Medium/Hard]",
-    "subtopic-title": "Step 12.2: Medium/Hard",
-    "question-name": "Jump Game",
-    "question-id": "jmpgm",
+    "topic-title": "Greedy Algorithms",
+    "subtopic-title": "Easy",
+    "question-name": "Jump Game - I",
+    "question-id": "practice-542",
     "question-gfg": "https://practice.geeksforgeeks.org/problems/jump-game/1",
     "question-lc": "https://leetcode.com/problems/jump-game/",
     "question-cn": "https://www.codingninjas.com/studio/problems/jump-game_3164697"
   },
   {
-    "topic-title": "Step 12: Greedy Algorithms [Easy, Medium/Hard]",
-    "subtopic-title": "Step 12.2: Medium/Hard",
-    "question-name": "Jump Game 2",
-    "question-id": "jmpgm2",
+    "topic-title": "Greedy Algorithms",
+    "subtopic-title": "Hard",
+    "question-name": "Jump Game II",
+    "question-id": "practice-595",
     "question-gfg": "https://practice.geeksforgeeks.org/problems/minimum-number-of-jumps-1587115620/1",
     "question-lc": "https://leetcode.com/problems/jump-game-ii/",
     "question-cn": "https://www.codingninjas.com/studio/problems/jump-game_893178"
@@ -2403,19 +2403,19 @@
     "question-cn": "https://www.codingninjas.com/studio/problems/minimum-number-of-platforms_799400"
   },
   {
-    "topic-title": "Step 12: Greedy Algorithms [Easy, Medium/Hard]",
-    "subtopic-title": "Step 12.2: Medium/Hard",
+    "topic-title": "Greedy Algorithms",
+    "subtopic-title": "Scheduling and Interval Problems",
     "question-name": "Job sequencing Problem",
-    "question-id": "jbsqncingprblm",
+    "question-id": "practice-547",
     "question-gfg": "https://practice.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1",
     "question-lc": "",
     "question-cn": "https://www.codingninjas.com/studio/problems/job-sequencing-problem_1169460"
   },
   {
-    "topic-title": "Step 12: Greedy Algorithms [Easy, Medium/Hard]",
-    "subtopic-title": "Step 12.2: Medium/Hard",
+    "topic-title": "Greedy Algorithms",
+    "subtopic-title": "Hard",
     "question-name": "Candy",
-    "question-id": "cndy",
+    "question-id": "practice-544",
     "question-gfg": "https://practice.geeksforgeeks.org/problems/candy/1",
     "question-lc": "https://leetcode.com/problems/candy/",
     "question-cn": "https://www.codingninjas.com/studio/problems/candies_893290"
@@ -2439,28 +2439,28 @@
     "question-cn": ""
   },
   {
-    "topic-title": "Step 12: Greedy Algorithms [Easy, Medium/Hard]",
-    "subtopic-title": "Step 12.2: Medium/Hard",
+    "topic-title": "Greedy Algorithms",
+    "subtopic-title": "Scheduling and Interval Problems",
     "question-name": "Insert Interval",
-    "question-id": "insrtintrvl",
+    "question-id": "practice-546",
     "question-gfg": "https://practice.geeksforgeeks.org/problems/insert-interval-1666733333/1",
     "question-lc": "https://leetcode.com/problems/insert-interval/",
     "question-cn": "https://www.codingninjas.com/studio/problems/-insert-interval_285893"
   },
   {
-    "topic-title": "Step 12: Greedy Algorithms [Easy, Medium/Hard]",
-    "subtopic-title": "Step 12.2: Medium/Hard",
+    "topic-title": "Greedy Algorithms",
+    "subtopic-title": "Scheduling and Interval Problems",
     "question-name": "Merge Intervals",
-    "question-id": "mrgintrvls",
+    "question-id": "practice-712",
     "question-gfg": "https://practice.geeksforgeeks.org/problems/overlapping-intervals--170633/1",
     "question-lc": "https://leetcode.com/problems/merge-intervals/",
     "question-cn": "https://www.codingninjas.com/studio/problems/merge-intervals_699917"
   },
   {
-    "topic-title": "Step 12: Greedy Algorithms [Easy, Medium/Hard]",
-    "subtopic-title": "Step 12.2: Medium/Hard",
+    "topic-title": "Greedy Algorithms",
+    "subtopic-title": "Scheduling and Interval Problems",
     "question-name": "Non-overlapping Intervals",
-    "question-id": "nnvrlppingintrvls",
+    "question-id": "practice-550",
     "question-gfg": "https://practice.geeksforgeeks.org/problems/non-overlapping-intervals/1",
     "question-lc": "https://leetcode.com/problems/non-overlapping-intervals/",
     "question-cn": "https://www.codingninjas.com/studio/problems/non-overlapping-intervals_3169341"
